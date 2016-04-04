@@ -1,9 +1,9 @@
 # Unbeatable TicTacToe
 
-**Open index.html in a browser to play.**
+### To play:
+Open index.html in a browser.
 
 ## AI
--------------
 The AI uses a recursive `minimax` algorithm to calculate the optimal move.
 
   1. For a given state, it generates a list of all possible moves.
